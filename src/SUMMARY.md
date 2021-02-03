@@ -2,7 +2,7 @@
 
 [Foreword](./foreword.md)
 
-- [Your First Transcription](./your_first_transcription.md)
+- [Your First Transcription](./your-first-transcription/README.md)
   - [Choosing a Post]()
   - [Claiming the Post]()
   - [Transcribing the Post]()
