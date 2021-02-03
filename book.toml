@@ -1,0 +1,6 @@
+[book]
+authors = ["Tim Jentzsch"]
+language = "en"
+multilingual = false
+src = "src"
+title = "A guide for r/TranscribersOfReddit"
