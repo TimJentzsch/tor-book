@@ -7,3 +7,4 @@ title = "A guide for r/TranscribersOfReddit"
 
 [output.html]
 preferred-dark-theme = "ayu"
+additional-css = ["custom.css"]
